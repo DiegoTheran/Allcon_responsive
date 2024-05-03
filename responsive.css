@@ -3,6 +3,7 @@
     .container{
         text-align: center;
     }
+
     .Menu_nav{
      display: none;
     }
@@ -12,6 +13,10 @@
         
     }
     .Titulos_white>h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    .Titulos_green>h1{
         font-size: 30px;
         text-align: center;
     }
@@ -42,6 +47,9 @@
         width: 40%;
         
         
+    }
+    .img_servicios>img{
+      width: 75%;
     }
   
     .Boton_link{
