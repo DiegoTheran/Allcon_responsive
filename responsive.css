@@ -1,0 +1,88 @@
+@media only screen and (max-width: 780px){
+    /*------MOBILES-----------*/
+    .container{
+        text-align: center;
+    }
+    .Menu_nav{
+     display: none;
+    }
+    .Titulos_black>h1{
+        font-size: 30px;
+        text-align: center;
+        
+    }
+    .Titulos_white>h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    .Parrafos_black{
+        font-size: 18px;
+        text-align: center;
+    }
+    .Parrafos_white{
+        font-size: 18px;
+        text-align: center;
+    }
+    .img_servicios{
+        text-align: center;
+        
+    }
+    .img_aliados{
+        text-align: center;
+        margin-right: 0px;
+       margin-left: 0px;
+       width: 50%;
+
+    }
+    .img_proyecto{
+       
+        text-align: center;
+    }
+    .img_proyecto>img{
+        width: 40%;
+        
+        
+    }
+  
+    .Boton_link{
+        text-align: center;
+    }
+    .Logo_nosotros{
+        
+        display: none;
+    }
+    .footer_text>p{
+font-size: 18px;
+    }
+ } 
+ @media only screen and (min-width: 780px){
+    /*---------------ESCRITORIO----------*/
+     .Menu_colapse{
+      display: none;
+     }
+     .Titulos_white>h1{
+        color: white;
+        font-size: 60px;
+        font-weight: 600;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .Titulos_black>h1{
+        color: black;
+        font-size: 60px;
+        font-weight: 600;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .Titulos_green>h1{
+        color: green;
+        font-size: 60px;
+        font-weight: 600;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .img_proyecto>img{
+        width: 60%;
+    }
+    .Parrafos_black{
+        text-align: center;
+    }
+  } 
+
