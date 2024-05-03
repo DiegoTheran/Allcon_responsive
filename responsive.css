@@ -1,5 +1,6 @@
-@media only screen and (max-width: 780px){
+@media only screen and (max-width: 490px){
     /*------MOBILES-----------*/
+  
     .container{
         text-align: center;
     }
@@ -49,8 +50,10 @@
         
     }
     .img_servicios>img{
-      width: 75%;
+        text-align: center;
+      width: 50%;
     }
+    
   
     .Boton_link{
         text-align: center;
